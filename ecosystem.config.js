@@ -1,10 +1,10 @@
 module.exports = {
   apps: [
     {
-      name: "albison bot",
-      script: "./dist/main.js",
+      name: 'personal financial accounting',
+      script: './dist/main.js',
       env: {
-        NODE_ENV: "production",
+        NODE_ENV: 'production',
       },
     },
   ],
