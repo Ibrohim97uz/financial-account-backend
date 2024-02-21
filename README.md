@@ -4,7 +4,7 @@ The project consists of 2 parts:
     - Frontend;
     - Backend;
 
-In this project you can see backen part. It wrote in Nestjs library;
+In this project you can see backend part. It wrote in Nestjs library;
 
 For start project you can run this command:
 
