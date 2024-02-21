@@ -16,4 +16,6 @@ STEP 2. Run project
 
 Link for frontend project: https://github.com/Ibrohim97uz/financial-accounting-front
 
+Also I added CI/CD ✅🚀
+
 Good luck and enjoy my code!🤟
